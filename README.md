@@ -2,7 +2,7 @@
 - 👀 I’m interested in websites
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on places where I can grow personally and professionally
-- 📫 How to reach me ...
+<!-- - 📫 How to reach me ... -->
 
 <!---
 julietadelgado/julietadelgado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
