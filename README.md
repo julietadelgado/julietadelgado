@@ -1,6 +1,6 @@
 # Hello World 👋
 
-I'm Julieta Delgado, a web developer with experience in creating responsive and scalable websites. Passionate about user experience, quality websites, and continuous learning.
+I'm Julieta Delgado, a web developer with experience creating responsive and scalable websites. I'm passionate about user experience, quality websites, and continuous learning.
 
 # Tech Stack
 
