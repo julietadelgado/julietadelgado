@@ -1,8 +1,6 @@
 # Hello World 👋
 
-I'm Julieta Delgado and I'm a web developer. I've been working on PHP sites, WordPress and Shopify.
-
-💞️ I’m looking to collaborate on places where I can grow personally and professionally.
+I'm Julieta Delgado, a web developer with experience in creating responsive and scalable websites. Passionate about user experience, quality websites, and continuous learning.
 
 # Tech Stack
 
